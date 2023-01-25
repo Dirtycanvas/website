@@ -1,0 +1,8 @@
+.card img {
+    width: auto;
+    max-width: 100%;
+}
+
+.card-title {
+    font-weight: bold;
+}
